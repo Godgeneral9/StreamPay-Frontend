@@ -66,7 +66,6 @@ const config = {
     "<rootDir>/lib/otel.test.ts",
     "<rootDir>/lib/requestId.test.ts",
     "<rootDir>/lib/sorobanRetryQueue.test.ts",
-    "<rootDir>/middleware.test.ts",
     "<rootDir>/tests/contract.test.ts",
     "<rootDir>/tests/env.test.ts",
     "<rootDir>/tests/integration/exports.test.ts",
